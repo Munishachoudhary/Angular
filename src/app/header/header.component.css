@@ -1,0 +1,9 @@
+.navbar-brand {
+  color: #0671c3 !important;
+}
+.nav-link:hover {
+  color: #0665c3 !important;
+}
+.nav-item {
+  font-size: 1.2rem;
+}
